@@ -28,6 +28,13 @@ This project provides a RESTful API that accepts structured invoice data, render
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/invoice-generator.git
-cd invoice-generator
+git clone https://github.com/Aman-Dinesh-Mishra/invoice-generator.git
+cd ArthLekh
 npm install
+```
+### Running the application
+```
+npm run start
+node server.js
+```
+
