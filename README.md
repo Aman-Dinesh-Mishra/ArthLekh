@@ -16,7 +16,7 @@ This project provides a RESTful API that accepts structured invoice data, render
 - 📁 Organized file structure for scalability
 - 🧰 Easily customizable invoice layout and branding
 
-## 🛠️ Technology Stack
+## 🛠️ Tech Stack
 
 | Layer         | Tool/Library       |
 |---------------|--------------------|
