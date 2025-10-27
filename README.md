@@ -35,6 +35,9 @@ npm install
 ### Running the application
 ```
 npm run start
+or
 node server.js
 ```
+## Verification of Invoices on local machine
+```http:localhost:3000/invoice/INV-001```
 
