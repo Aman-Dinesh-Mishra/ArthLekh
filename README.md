@@ -39,5 +39,7 @@ or
 node server.js
 ```
 ## Verification of Invoices on local machine
-```http:localhost:3000/invoice/INV-001```
+```
+http:localhost:3000/invoice/INV-001
+```
 
