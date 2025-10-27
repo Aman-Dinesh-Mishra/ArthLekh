@@ -32,14 +32,14 @@ git clone https://github.com/Aman-Dinesh-Mishra/invoice-generator.git
 cd ArthLekh
 npm install
 ```
-### Running the application
+### Run the server
 ```
 npm run start
-or
+or 
 node server.js
 ```
-## Verification of Invoices on local machine
+## Local Invoice Verification
 ```
 http:localhost:3000/invoice/INV-001
 ```
-
+Replace INV-001 with your desired ID
